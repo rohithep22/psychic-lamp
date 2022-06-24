@@ -1,1 +1,1 @@
-# psychic-lamp
+# sample website 1
